@@ -1,2 +1,2 @@
-# mypokeGuide_f
-포켓몬도감 프론트
+# pokeGuide_f
+pokeGuide 프론트 😀
